@@ -5,7 +5,7 @@
 Welcome to my GitHub playground! I'm all about building on the world of natural language processing and large language models. When I'm not coding, you'll probably find me lost in a Brandon Sanderson novel or hiking some scenic trails. 
 
 ### What I'm up to:
-- Working on [pycidr](https://github.com/jrrobison1/pycpidr), a propositional idea density rater based on CPIDR 3.2
+- Working on [ideadensity](https://github.com/jrrobison1/ideadensity), a propositional idea density rater based on CPIDR 3.2
 - Exploring how LLMs "experience" aesthetics with my [writing-feature-extractor](https://github.com/jrrobison1/writing-feature-extractor)
 - Re-reading the Stormlight Archive series (Sanderson fans, unite)
 
