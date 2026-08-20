@@ -6,7 +6,7 @@ Welcome to my GitHub playground! I'm all about building on the world of natural 
 
 ### What I'm up to:
 - Working on [ideadensity](https://github.com/jrrobison1/ideadensity), a propositional idea density rater based on CPIDR 3.2
-- Exploring how LLMs "experience" aesthetics with my [writing-feature-extractor](https://github.com/jrrobison1/writing-feature-extractor)
+- Exploring how LLMs "experience" aesthetics
 - Re-reading the Stormlight Archive series (Sanderson fans, unite)
 
 ### 💻 Tech I love:
